@@ -13,4 +13,4 @@ Smart-Blind-Glasses 👓  are a specific type of eyewear that enables blind pers
 # Hardware
 This project calls for a Raspberry Pi, a camera, earbuds, and some simple eyewear. All of the data is kept on a raspberry pi CPU, which can also communicate information over earbuds and capture live video frames using a camera.
 
-   <a href="" target="_blank"> <img src=https://imgur.com/a/ZU81Hyv> </a>
+   <a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Smart-Blind-Glasses/blob/main/Smart-Glasses-main/Smart-Glasses-main/model%20image.jpeg> </a>
