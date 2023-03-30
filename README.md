@@ -3,8 +3,6 @@
 # INTRODUCTION
 Smart-Blind-Glasses 👓  are a specific type of eyewear that enables blind persons to see print rather than Braille.In these glasses, we take input from the camera at a rate of roughly 5 frames per second, convert the text that is written in those frames, and then further turn the text into speech in the user's local tongue.
 
-# LANGUAGE-USED 
-
 
 # MODULES-USED 🧾
 • Open CV
